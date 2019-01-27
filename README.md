@@ -28,3 +28,6 @@ This project is built upon the 16 bit ALU created [here](https://github.com/weij
 There's an added HARDCORE mode where each player only has 1 life. 
 
 One wrong move will end the game immediately.
+
+## Team
+- Vincent Vieri
