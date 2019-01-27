@@ -30,4 +30,7 @@ There's an added HARDCORE mode where each player only has 1 life.
 One wrong move will end the game immediately.
 
 ## Team
-- Vincent Vieri
+- Koe Jia-Yee
+- Michael Junaprasetya
+- Tan Wei Jin
+- Vieri Vincent
